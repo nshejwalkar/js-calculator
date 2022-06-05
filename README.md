@@ -1,0 +1,3 @@
+# js-calculator
+
+Calculator app
